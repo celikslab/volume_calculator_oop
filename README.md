@@ -6,4 +6,4 @@
 
 
 
-- Developer : Muhammed Emin Çelik
+- Developer : Muhammed Emin CELIK
